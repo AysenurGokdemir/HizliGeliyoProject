@@ -1,6 +1,6 @@
-package com.example.hizligeliyorchallange.api;
+package com.example.hizligeliyoproject.api;
 
-import com.example.hizligeliyorchallange.model.ProductList;
+import com.example.hizligeliyoproject.model.ProductList;
 
 import java.util.List;
 

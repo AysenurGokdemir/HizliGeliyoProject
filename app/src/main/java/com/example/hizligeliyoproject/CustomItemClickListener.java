@@ -1,6 +1,6 @@
-package com.example.hizligeliyorchallange;
+package com.example.hizligeliyoproject;
 
-import com.example.hizligeliyorchallange.model.ProductList;
+import com.example.hizligeliyoproject.model.ProductList;
 
 public interface CustomItemClickListener
 {

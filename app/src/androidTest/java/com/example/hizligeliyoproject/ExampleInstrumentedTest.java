@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange;
+package com.example.hizligeliyoproject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

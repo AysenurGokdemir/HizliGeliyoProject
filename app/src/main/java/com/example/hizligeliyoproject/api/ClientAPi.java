@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange.api;
+package com.example.hizligeliyoproject.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

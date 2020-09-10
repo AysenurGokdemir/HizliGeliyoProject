@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange;
+package com.example.hizligeliyoproject;
 
 import org.junit.Test;
 

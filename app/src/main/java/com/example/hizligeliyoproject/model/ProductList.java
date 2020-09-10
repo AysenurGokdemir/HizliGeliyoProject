@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange.model;
+package com.example.hizligeliyoproject.model;
 
 import com.google.gson.annotations.SerializedName;
 

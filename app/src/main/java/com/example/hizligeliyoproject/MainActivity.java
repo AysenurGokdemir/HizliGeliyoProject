@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange;
+package com.example.hizligeliyoproject;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -15,10 +15,10 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-import com.example.hizligeliyorchallange.adapter.CustomAdapter;
-import com.example.hizligeliyorchallange.api.ClientAPi;
-import com.example.hizligeliyorchallange.api.ProductsApi;
-import com.example.hizligeliyorchallange.model.ProductList;
+import com.example.hizligeliyoproject.adapter.CustomAdapter;
+import com.example.hizligeliyoproject.api.ClientAPi;
+import com.example.hizligeliyoproject.api.ProductsApi;
+import com.example.hizligeliyoproject.model.ProductList;
 
 import java.util.ArrayList;
 import java.util.List;

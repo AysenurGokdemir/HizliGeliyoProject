@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange.helper;
+package com.example.hizligeliyoproject.helper;
 
 import android.content.Context;
 import android.support.v7.app.AlertDialog;

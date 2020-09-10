@@ -1,4 +1,4 @@
-package com.example.hizligeliyorchallange.adapter;
+package com.example.hizligeliyoproject.adapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -11,9 +11,9 @@ import android.widget.Filterable;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.hizligeliyorchallange.CustomItemClickListener;
-import com.example.hizligeliyorchallange.R;
-import com.example.hizligeliyorchallange.model.ProductList;
+import com.example.hizligeliyoproject.CustomItemClickListener;
+import com.example.hizligeliyoproject.R;
+import com.example.hizligeliyoproject.model.ProductList;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
