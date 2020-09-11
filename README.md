@@ -1,3 +1,3 @@
 # HizliGeliyoProject
 
-HızlıGeliyo.com code Challenge
+HızlıGeliyo.com Code Challenge
